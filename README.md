@@ -17,11 +17,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 📈 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=8&theme=tokyonight)
-
----
-
 ### 📫 Como me encontrar:
 - Email: [matheusfaria@alunos.utfpr.edu.br](mailto:matheusfaria@alunos.utfpr.edu.br)
 - LinkedIn: [Matheus Bueno Faria](https://www.linkedin.com/in/matheus-bueno-faria-6438891a4/)
