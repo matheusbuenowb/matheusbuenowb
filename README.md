@@ -4,7 +4,7 @@
 - 🔬 Desenvolvendo projetos WEB e de aprendizado de máquina 
 - 📚 Linguagens em aperfeiçoamento: Python (I.A), C#, Java e JavaScript.
 - 🧾 Aprendendo normas: COBIT 5, ITIL V3/V4, PMBOK, ISO.
-- 📖 Leituras de interesse: redes de computadores, Big Data, I.A (Machine Learning e Deep Learning).
+- 📖 Leituras de interesse: redes de computadores, Big Data, Business Intelligence, I.A (Machine Learning e Deep Learning).
 - 🚀 Gosto de aprender, compartilhar conhecimento e explorar novas ideias.
 
 ### 🛠 Tecnologias que uso
