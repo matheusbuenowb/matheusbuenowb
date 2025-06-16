@@ -3,7 +3,7 @@
 - 💻 Estudante de Engenharia de Computação pela UTFPR - CP.
 - 🔬 Desenvolvendo projetos WEB e de aprendizado de máquina 
 - 📚 Linguagens em aperfeiçoamento: Python (I.A), C#, Java e JavaScript.
-- 🧾 Aprendendo normas: COBIT 5, ITIL V3/V4, PMBOK, ISO.
+- 🧾 Aprendendo normas: COBIT 5, ITIL V3/V4, PMBOK, ISO 27001.
 - 📖 Leituras de interesse: redes de computadores, Big Data, Business Intelligence, I.A (Machine Learning e Deep Learning).
 - 🚀 Gosto de aprender, compartilhar conhecimento e explorar novas ideias.
 
