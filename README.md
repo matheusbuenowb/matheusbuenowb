@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Matheus Bueno Faria, prazer!
 
-- 💻 Estudante de Engenharia de Computação pela UTFPR - CP.
+- 💻 Graduado em Engenharia de Computação pela UTFPR - CP.
 - 🔬 Desenvolvendo projetos WEB e de aprendizado de máquina 
 - 📚 Linguagens em aperfeiçoamento: Python (I.A), C#, Java e JavaScript.
 - 🧾 Aprendendo normas: COBIT 5, ITIL V3/V4, PMBOK, ISO 27001.
