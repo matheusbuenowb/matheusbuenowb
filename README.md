@@ -1,13 +1,13 @@
-## 👋 Olá, meu nome é Matheus Bueno Faria, prazer!
+##  Olá, meu nome é Matheus Bueno Faria, prazer!
 
-- 💻 Graduado em Engenharia de Computação pela UTFPR - CP.
-- 🔬 Desenvolvendo projetos WEB e de aprendizado de máquina 
-- 📚 Linguagens em aperfeiçoamento: Python (I.A), C#, Java e JavaScript.
-- 🧾 Aprendendo normas: COBIT 5, ITIL V3/V4, PMBOK, ISO 27001.
-- 📖 Leituras de interesse: redes de computadores, Big Data, Business Intelligence, I.A (Machine Learning e Deep Learning).
-- 🚀 Gosto de aprender coisas novas, compartilhar conhecimento e explorar novas ideias.
+- Graduado em Engenharia de Computação pela UTFPR - CP.
+- Desenvolvendo métodos de memória e aprendizado contínuo. 
+- Linguagens em aperfeiçoamento: Python (I.A), C#, Java e JavaScript.
+- Aprendendo normas e frameworks: COBIT 5, ITIL V3/V4, PMBOK, ISO 27001, 27002
+- Leituras de interesse: redes de computadores, Big Data, Business Intelligence, I.A (Machine Learning e Deep Learning).
+- Gosto de aprender coisas novas, compartilhar conhecimento e explorar novas ideias.
 
-### 🛠 Tecnologias que uso
+### Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 📫 Como me encontrar:
+### Como me encontrar:
 - Email: [matheusfaria@alunos.utfpr.edu.br](mailto:matheusfaria@alunos.utfpr.edu.br)
 - LinkedIn: [Matheus Bueno Faria](https://www.linkedin.com/in/matheus-bueno-faria-6438891a4/)
 
