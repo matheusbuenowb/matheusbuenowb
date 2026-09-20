@@ -1,7 +1,7 @@
 ##  Olá, meu nome é Matheus Bueno Faria, prazer!
 
 - Graduado em Engenharia de Computação pela UTFPR - CP.
-- Desenvolvendo métodos de memória e aprendizado contínuo. 
+- Desenvolvendo métodos de memorização e aprendizado contínuo. 
 - Linguagens em aperfeiçoamento: Python (I.A), C#, Java e JavaScript.
 - Aprendendo normas e frameworks: COBIT 5, ITIL V3/V4, PMBOK, ISO 27001, 27002
 - Leituras de interesse: redes de computadores, Big Data, Business Intelligence, I.A (Machine Learning e Deep Learning).
